@@ -5,7 +5,7 @@
 ---
 ## UPDATES (`Current: V0.1.1 - The Star Fishing Update`)
 * Tap Simulator: Auto Craft + Auto Clicker MACROS `-Discontinued`
-* `Star Fishing Macro`
+* `Star Fishing Macro and update system` -latest
 
 * Expect usual fixes and additions to the app per update
 
@@ -13,7 +13,6 @@
 * Possible more advanced version of star fishing macro (COMING SOON area)
 * Omega Rarities 2 Macros (Maybe not, it also kinda died out)
 * More Roblox Games + Macros
-* App updating System
 * Shift to screen resizing (from coordinate system -more accurate)
 * Discord Integration
 * At somepoint I would like to expand beyond roblox for other games like schedule 1 probably (this would also seperate the app into 3 parts -1.just roblox -2.other games -3.all games 
