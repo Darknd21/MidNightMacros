@@ -15,6 +15,7 @@
 * App updating System
 * Shift to screen resizing (from coordinate system -more accurate)
 * Discord Integration
+* At somepoint I would like to expand beyond roblox for other games like schedule 1 probably (this would also seperate the app into 3 parts -1.just roblox -2.other games -3.all games 
 ---
 * `The app will most likely be seen as some sort of virus by whatever protection is used, disable or allow this file to download`
 ---
