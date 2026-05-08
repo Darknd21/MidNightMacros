@@ -15,7 +15,7 @@
 * Shift to screen resizing (from coordinate system -more accurate)
 * Discord Integration
 ---
-` * The app will most likely be seen as some sort of virus by whatever protection is used, disable or allow this file to download`
+* `The app will most likely be seen as some sort of virus by whatever protection is used, disable or allow this file to download`
 ---
 # Copyright (c) 2026 Darknd21
 
