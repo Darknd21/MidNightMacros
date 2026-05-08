@@ -3,7 +3,7 @@
 2. You may not upload or claim this yourself
 3. MORE COMING SOON
 ---
-## UPDATES (`Current: V0.1.2 - The Star Fishing Update`)
+## UPDATES (`Current: V0.1.1 - The Star Fishing Update`)
 * Tap Simulator: Auto Craft + Auto Clicker MACROS `-Discontinued`
 * `Star Fishing Macro`
 
