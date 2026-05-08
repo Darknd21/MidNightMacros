@@ -12,6 +12,7 @@
 ## PLANNED:
 * Possible more advanced version of star fishing macro (COMING SOON area)
 * Omega Rarities 2 Macros (Maybe not, it also kinda died out)
+* More Roblox Games + Macros
 * App updating System
 * Shift to screen resizing (from coordinate system -more accurate)
 * Discord Integration
