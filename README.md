@@ -1,6 +1,6 @@
 # README:
 1. This is just a passion project so updates may very from time to time
-2. You may not upload or claim this yourself
+2. Join Our Discord for MORE!
 3. MORE COMING SOON
 ---
 ## UPDATES (`Current: V0.1.1 - The Star Fishing Update`)
