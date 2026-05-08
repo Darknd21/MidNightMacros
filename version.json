@@ -1,8 +1,9 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "log": [
-    "Add Tap Sim Macros"
+    "Added Auto Fish for Star Fishing -Roblox",
+    "Added update system in settings -should work I hope ;D"
   ],
-  "download_url": "https://github.com/Darknd21/MidNightMacros/releases/download/v0.1.0/MidNightMacros-v0.1.0.zip",
+  "download_url": "https://github.com/Darknd21/MidNightMacros/releases/download/v0.1.1/MidNightMacros-v0.1.1.zip",
   "sha256": ""
 }
