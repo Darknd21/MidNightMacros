@@ -4,7 +4,7 @@
 3. MORE COMING SOON
 ---
 ## UPDATES (`Current: V0.1.3 - Common Macros Page and Advanced Auto Clicker (Separate App) Release`)
-* ``You Can Now Download Midnight Macros' Advanced Auto Clicker App``
+* `You Can Now Download Midnight Macros' Advanced Auto Clicker App`
 * `Added Common Macros Page: Macros Like Auto Clicker That Can Be Used For Multiple Games (V.0.1.3)`
 * `Tap Simulator: Auto Craft + Auto Clicker MACROS (V.0.1.2)` 
 * `Star Fishing Macro and update system (V.0.1.1)` 
