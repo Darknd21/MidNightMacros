@@ -1,6 +1,6 @@
 # README:
 1. This is just a passion project so updates may very from time to time
-2. Join Our Discord for MORE!
+2. Join Our Discord for larger Update Log and MORE!
 3. MORE COMING SOON
 ---
 ## UPDATES (`Current: V0.1.2 - Common Macros Page and Advanced Auto Clicker (Separate App) Release`)
