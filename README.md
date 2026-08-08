@@ -3,7 +3,7 @@
 2. Join Our Discord for larger Update Log and MORE!
 3. MORE COMING SOON
 ---
-## UPDATES (`Upcoming 8/7: V0.1.2 - Common Macros Page and Advanced Auto Clicker (Separate App) Release`)
+## UPDATES (`V0.1.2 - Common Macros Page and Advanced Auto Clicker (Separate App) Release`)
 * `You Can Now Download Midnight Macros' Advanced Auto Clicker App`
 * `Added Common Macros Page: Macros Like Auto Clicker (+2 more) That Can Be Used For Multiple Games (V.0.1.2)`
 * `Tap Simulator: Auto Craft + Auto Clicker MACROS (V.0.1.1)` 
