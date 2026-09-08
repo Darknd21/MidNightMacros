@@ -3,13 +3,19 @@
 2. Join Our Discord for larger Update Log and MORE!
 3. MORE COMING SOON
 ---
-## UPDATES (`V0.1.2 - Common Macros Page and Advanced Auto Clicker (Separate App) Release`)
-* `You Can Now Download Midnight Macros' Advanced Auto Clicker App`
+## UPDATES (`V0.1.2 - Common Macros Page`)
 * `Added Common Macros Page: Macros Like Auto Clicker (+2 more) That Can Be Used For Multiple Games (V.0.1.2)`
 * `Tap Simulator: Auto Craft + Auto Clicker MACROS (V.0.1.1)` 
 * `Star Fishing Macro and update system (V.0.1)` 
 
-* Expect usual fixes and additions to the app per update
+## AAC Updates (`V1.1 - Additions and Fixes`)
+* `Added Hold Click Option`
+* `Added Instances Check - Only 1 can be open at any given time now`
+* `If a setting is changed it will now stop on its own if active`
+* `App UI Changes`
+
+
+* Expect usual fixes and additions to the apps per update
 
 ## PLANNED:
 * More Roblox Games + Macros
