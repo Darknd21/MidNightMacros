@@ -13,10 +13,11 @@
 * `Added Instances Check - Only 1 can be open at any given time now`
 * `If a setting is changed it will now stop on its own if active`
 * `App UI Changes`
-
+---
 
 * Expect usual fixes and additions to the apps per update
 
+---
 ## PLANNED:
 * More Roblox Games + Macros
 * Shift to screen resizing (from coordinate system -more accurate) if needed
