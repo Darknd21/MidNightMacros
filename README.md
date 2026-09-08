@@ -13,6 +13,7 @@
 * `Added Instances Check - Only 1 can be open at any given time now`
 * `If a setting is changed it will now stop on its own if active`
 * `App UI Changes`
+* `With this update any new updates for aac will be on the AAC_Branch`
 ---
 
 * Expect usual fixes and additions to the apps per update
