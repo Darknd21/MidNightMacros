@@ -1,7 +1,8 @@
 ---
 ##Advanced Auto Clicker
 1. Options: Click Interval, Mouse Button to click, how many times to click, cursor position(s), [NEW] Click Type (includes click,hold, and scroll)
-  *Scroll Clicking: Just FYI this is a little confusing to use so here's the just (with both) - A Higher Tick Rate Sould have a Lower Delay/Lower Tick = Higher Delay. Tick Rate is how many times it will scroll in one loop
+  *-Scroll Clicking: Just FYI this is a little confusing to use so here's the just (with both) - A Higher Tick Rate Sould have a Lower Delay/Lower Tick = Higher Delay. *
+   *Tick Rate is how many times it will scroll in one loop*
 2. #Noteable Settings: Repeat Until Stopped, Repeat Amount, and a Timer Function that stops by a specified amount of time, and Delays (Including Click Amount/Positions/Scroll Delay)
 3. `Probably wont be getting any updates other than fixes and possible small additions!`
 ---
