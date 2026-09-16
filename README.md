@@ -8,8 +8,6 @@
 * `Tap Simulator: Auto Craft + Auto Clicker MACROS (V.0.1.1)` 
 * `Star Fishing Macro and update system (V.0.1)` 
 
-## AAC Updates (`V1.1 - Additions and Fixes`)
-* `With this update any new updates/logs for aac will be on the AAC_Branch`
 ---
 
 * Expect usual fixes and additions to the apps per update
