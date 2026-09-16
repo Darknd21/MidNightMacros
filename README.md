@@ -3,21 +3,18 @@
 2. Join Our Discord for larger Update Log and MORE!
 3. MORE COMING SOON
 ---
-## AAC Updates (`V1.1 - Additions and Fixes`)
-* `Added Hold Click Option`
-* `Added Instances Check - Only 1 can be open at any given time now`
-* `If a setting is changed it will now stop on its own if active`
-* `App UI Changes`
+## AAC Updates (`V1.2 - Additions and Fixes`)
+* `Added Scroll Clicking`
+* `Hold Click >> Click Type: Here you can find both hold and scroll`
+* `Added Delays Settings (also replaced multi click delay setting)`
+* `Fixed Mutliple setting popups being able to be open at once`
+* `Various Other Fixes`
+* `Improved Loading Times/Stability`
+* `App UI Changes and Improvements`
 ---
 
 * Expect usual fixes and additions to the apps per update
 
----
-## PLANNED:
-* More Roblox Games + Macros
-* Shift to screen resizing (from coordinate system -more accurate) if needed
-* Discord Integration
-* At somepoint I would like to expand beyond roblox for other games like schedule 1 probably (this would also seperate the app into 3 parts -1.just roblox -2.other games -3.all games)
 ---
 * `The app will most likely be seen as some sort of virus by whatever protection is used, disable or allow this file to download`
 ---
